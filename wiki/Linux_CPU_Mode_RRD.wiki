@@ -1,4 +1,4 @@
-#LinuxCPUModeRRD detailed cpu monitoring script for linux
+#Linux_CPU_Mode_RRD detailed cpu monitoring script for linux
 
 = Introduction =
 
