@@ -34,10 +34,10 @@
 $ chmod +x linux_cpu_mode_rrd.py
 }}}
   * add an entry to your crontab (crontab -e) so cron will run it.
-    example crontab entry using a 60 sec (1 min) interval:
-    {{{
-    */1 * * * * /home/corey/linux_cpu_mode_rrd.py
-    }}}
+  example crontab entry using a 60 sec (1 min) interval:
+  {{{
+  */1 * * * * /home/corey/linux_cpu_mode_rrd.py
+  }}}
 
 prereqs on debian/ubuntu:
 - install rrdtool
