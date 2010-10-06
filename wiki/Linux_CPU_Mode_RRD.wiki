@@ -1,13 +1,17 @@
 #summary detailed cpu monitoring for linux
 
+= linux_cpu_mode_rrd.py =
+
 *Corey Goldberg - 2010*
 
-= Source Code (SVN) =
+----
+
+== Source Code (SVN) ==
 
 [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_cpu_mode_rrd/linux_cpu_mode_rrd.py linux_cpu_mode_rrd.py]
 
 
-= Information =
+== Information ==
 
  * monitors and detailed CPU statistics
  * stores data in RRD (round-robin database)
@@ -16,7 +20,7 @@
  * requires python 2.x, rrdtool
 
 
-= Instructions = 
+== Instructions == 
 
       - configure the script's settings:
           - INTERVAL: collection interval in secs (how often the script is run)
@@ -35,8 +39,6 @@
 
 
 
-= Screenshot =
+== Screenshot ==
 
-
-Screenshot: 
 http://corey-projects.googlecode.com/svn/trunk/python2/linux_monitoring/linux_cpu_mode_rrd/2010-10-04_Screenshot_CPU_Mode_Stats.png
