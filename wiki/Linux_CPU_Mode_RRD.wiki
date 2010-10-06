@@ -39,12 +39,6 @@ $ chmod +x linux_cpu_mode_rrd.py
   */1 * * * * /home/corey/linux_cpu_mode_rrd.py
   }}}
 
-prereqs on debian/ubuntu:
-- install rrdtool
-$ sudo apt-get install rrdtool
-
-
-
 == Screenshot ==
 
 http://corey-projects.googlecode.com/svn/trunk/python2/linux_monitoring/linux_cpu_mode_rrd/2010-10-04_Screenshot_CPU_Mode_Stats.png
