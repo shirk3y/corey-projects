@@ -1,0 +1,12 @@
+#Linux_CPU_Mode_RRD detailed cpu monitoring script for linux
+
+= Introduction =
+
+detailed cpu monitoring script for linux
+
+
+= Screenshot =
+
+
+Screenshot: 
+http://corey-projects.googlecode.com/svn/trunk/python2/linux_monitoring/linux_cpu_mode_rrd/2010-10-04_Screenshot_CPU_Mode_Stats.png
