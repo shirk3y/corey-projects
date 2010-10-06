@@ -1,6 +1,8 @@
 #summary detailed cpu monitoring for linux
 
-= linux_cpu_mode_rrd.py =
+----
+
+== linux_cpu_mode_rrd.py ==
 
 *Corey Goldberg - 2010*
 
