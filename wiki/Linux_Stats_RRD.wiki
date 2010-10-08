@@ -23,8 +23,6 @@
   * run this script at regular intervals with a task/job scheduler
   * requires python 2.x, rrdtool
 
-== OS Stats Collected ==
-
 stats collected:
   * cpu_percent: processor utilization
   * mem_used: physical memory usage
