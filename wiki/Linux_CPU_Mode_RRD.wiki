@@ -14,7 +14,6 @@
   * [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_cpu_mode_rrd/linux_cpu_mode.html linux_cpu_mode.html]
 
 
-
 == Information ==
 
   * monitors detailed CPU statistics
