@@ -1,4 +1,4 @@
-#summary local system monitoring for linux
+#summary Local System Monitoring for Linux (OS Metrics)
 
 ----
 
@@ -10,7 +10,7 @@
 
 == Source Code (SVN) ==
 
-  * [hhttp://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_local_stats_rrd/linux_stats_rrd.py linux_stats_rrd.py]
+  * [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_local_stats_rrd/linux_stats_rrd.py linux_stats_rrd.py]
   * [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_local_stats_rrd/stats_linux.html stats_linux.html]
   * [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_local_stats_rrd/#linux_local_stats_rrd/web web]
 
