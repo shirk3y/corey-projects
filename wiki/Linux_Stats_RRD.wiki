@@ -50,6 +50,6 @@ stats collected:
 
 == Screenshots ==
 
-http://corey-projects.googlecode.com/svn/trunk/python2/linux_monitoring/linux_local_stats_rrd/2010-10-05_Screenshot_Linux_OS_Stats_4hr.png
-
 http://corey-projects.googlecode.com/svn/trunk/python2/linux_monitoring/linux_local_stats_rrd/screenshot-linux_stats_rrd_home.png
+
+http://corey-projects.googlecode.com/svn/trunk/python2/linux_monitoring/linux_local_stats_rrd/2010-10-05_Screenshot_Linux_OS_Stats_4hr.png
