@@ -1,0 +1,57 @@
+#summary local system monitoring for linux
+
+----
+
+== linux_stats_rrd.py ==
+
+*Corey Goldberg - 2010*
+
+----
+
+== Source Code (SVN) ==
+
+  * [hhttp://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_local_stats_rrd/linux_stats_rrd.py linux_stats_rrd.py]
+  * [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_local_stats_rrd/stats_linux.html stats_linux.html]
+  * [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_local_stats_rrd/#linux_local_stats_rrd/web web]
+
+
+== Information ==
+
+  * monitors and graphs basic operating system stats
+  * stores data in RRD (round-robin database)
+  * generates .png images of plots/stats
+  * run this script at regular intervals with a task/job scheduler
+  * requires python 2.x, rrdtool
+
+== OS Stats Collected ==
+
+stats collected:
+  * cpu_percent: processor utilization
+  * mem_used: physical memory usage
+  * net_bps_in: network throughput (bps in)
+  * net_bps_out: network throughput (bps out)
+  * load_avg: system load average (1 min)
+  * disk_busy_percent: disk busy doing i/o
+
+== Instructions == 
+  * configure the script's settings:
+    * NET_INTERFACE: device to capture network stats on
+    * DISK: storage device
+    * INTERVAL: collection interval in secs (how often the script is run)
+    * GRAPH_MINS: timespans for graph/png files
+    * GRAPH_DIR:  output directory (make sure the output directory is writable)
+  * make the script executable:
+  {{{
+  $ chmod +x linux_stats_rrd.py
+  }}}
+  * add an entry to your crontab (crontab -e) so cron will run it.
+  example crontab entry using a 60 sec (1 min) interval:
+  {{{
+  */1 * * * * /home/corey/linux_stats_rrd.py
+  }}}
+
+== Screenshots ==
+
+http://corey-projects.googlecode.com/svn/trunk/python2/linux_monitoring/linux_local_stats_rrd/web/screenshot-linux_stats_rrd_home.png
+
+http://corey-projects.googlecode.com/svn/trunk/python2/linux_monitoring/linux_local_stats_rrd/web/screenshot-linux_stats_rrd_last1hr.png
