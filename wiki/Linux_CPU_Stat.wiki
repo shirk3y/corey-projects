@@ -12,7 +12,7 @@
 
   * view: [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_cpu_stat.py linux_stats_rrd.py]
   
-
+----
 
 == Information ==
 
@@ -66,3 +66,5 @@ print 'procs blocked: %d' % cpustat.procs_blocked()
 
 print 'load_avg:', cpustat.load_avg()
 }}}
+
+----
