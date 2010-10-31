@@ -22,7 +22,7 @@
   * Linux 2.6.x
     
     
-functions:
+==== functions: ====
   * cpu_times()
   * cpu_percents(sample_duration=1)
   * procs_running()
@@ -31,14 +31,14 @@ functions:
   * cpu_info()
     
     
-simple example:
+==== simple example: ====
 {{{    
 #!/usr/bin/env python
 import linux_cpu_stat as cpustat
 print cpustat.cpu_info()
 }}}    
     
-full example:
+==== full example: ====
 {{{    
 #!/usr/bin/env python
 
