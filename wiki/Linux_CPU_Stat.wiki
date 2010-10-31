@@ -31,37 +31,38 @@ functions:
   * cpu_info()
     
     
-    simple example:
+simple example:
 {{{    
 #!/usr/bin/env python
 import linux_cpu_stat as cpustat
 print cpustat.cpu_info()
 }}}    
     
-    full example:
-    
-        #!/usr/bin/env python
-        
-        import linux_cpu_stat as cpustat   
+full example:
+{{{    
+#!/usr/bin/env python
 
-        cpu_pcts = cpustat.cpu_percents()
+import linux_cpu_stat as cpustat   
 
-        print 'cpu utilization: %.2f%%' % (100 - cpu_pcts['idle']) 
-        
-        print 'cpu mode percents:'
-        pprint.pprint(cpu_pcts)
+cpu_pcts = cpustat.cpu_percents()
 
-        print 'cpu times:', cpustat.cpu_times()
-        
-        cpu_info = cpustat.cpu_info()
-        
-        print 'cpu info:'
-        pprint.pprint(cpu_info)
-        
-        print 'num cores: %s' % cpu_info['cpu cores']
-        
-        print 'procs running: %d' % cpustat.procs_running()
-        
-        print 'procs blocked: %d' % cpustat.procs_blocked()    
-        
-        print 'load_avg:', cpustat.load_avg()
+print 'cpu utilization: %.2f%%' % (100 - cpu_pcts['idle']) 
+
+print 'cpu mode percents:'
+pprint.pprint(cpu_pcts)
+
+print 'cpu times:', cpustat.cpu_times()
+
+cpu_info = cpustat.cpu_info()
+
+print 'cpu info:'
+pprint.pprint(cpu_info)
+
+print 'num cores: %s' % cpu_info['cpu cores']
+
+print 'procs running: %d' % cpustat.procs_running()
+
+print 'procs blocked: %d' % cpustat.procs_blocked()    
+
+print 'load_avg:', cpustat.load_avg()
+}}}
