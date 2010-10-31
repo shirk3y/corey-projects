@@ -17,7 +17,7 @@
 == Information ==
 
   
-requires:
+=== requires: ===
   * Python 2.6+
   * Linux 2.6.x
     
