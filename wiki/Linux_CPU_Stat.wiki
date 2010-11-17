@@ -1,4 +1,4 @@
-#summary linux_cpu_stat - Python Module for CPU Stats on Linux
+#summary Python Module for CPU Stats on Linux
 
 ----
 
