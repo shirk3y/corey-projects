@@ -1,4 +1,5 @@
 #summary Detailed CPU Monitoring for Linux
+#labels Featured
 
 ----
 
