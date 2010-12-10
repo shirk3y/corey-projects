@@ -1,4 +1,5 @@
 #summary Python Module for CPU Stats on Linux
+#labels Featured
 
 ----
 
