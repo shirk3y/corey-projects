@@ -1,6 +1,6 @@
 #summary Local System Monitoring for Linux (OS Metrics)
 #labels Featured
-
+ 
 ----
 
 == linux_stats_rrd.py ==
