@@ -21,6 +21,7 @@ ascii command-line progress bar with percentage and elapsed time display
 
 `$ python progress_bar.py`
 
+<br />
 `static progress bar:`<br />
 `[##########       25%                  ]  15s/60s`
 
