@@ -22,13 +22,13 @@ Corey Goldberg<br />
 {{{
 #!/usr/bin/env python3
 
-import progress_bar
+import console_progress_bar
 
 
 # print a static progress bar:
 #  [##########       25%                  ]  15s/60s
 
-pb = progress_bar.ProgressBar(60)
+pb = console_progress_bar.ProgressBar(60)
 pb.update_time(15)
 print(pb)
 
@@ -39,7 +39,7 @@ print(pb)
 #  done
 
 secs = 10
-pb = progress_bar.ProgressBar(secs)
+pb = console_progress_bar.ProgressBar(secs)
 print('\nplease wait %d seconds...\n' % secs)
 
 # spawn asych (threads/processes/etc) code here that runs for secs.
