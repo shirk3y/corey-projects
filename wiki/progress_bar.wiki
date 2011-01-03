@@ -1,9 +1,11 @@
-#summary ascii command-line progress bar with percentage and elapsed time display
+#summary progress_bar : python module - ascii command-line progress bar
+#labels Featured
 
 ----
 
-==  ==
+== progress_bar.py ==
 
+ascii command-line progress bar with percentage and elapsed time display
 
 ----
 
