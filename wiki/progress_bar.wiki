@@ -19,7 +19,7 @@ example output:
 
 
 `$ python progress_bar.py`
-
+` `
 `static progress bar:`
 `[##########       25%                  ]  15s/60s`
 ``
