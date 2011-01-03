@@ -6,6 +6,10 @@
 === description ===
 ascii command-line progress bar with percentage and elapsed time display
 
+=== requirements ===
+
+Python 3.0+
+
 ----
 
 === author ===
