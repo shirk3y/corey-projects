@@ -35,3 +35,5 @@ ascii command-line progress bar with percentage and elapsed time display
 
 `[################100%##################]  10s/10s`<br />
 `done`
+
+----
