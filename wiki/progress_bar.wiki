@@ -19,7 +19,7 @@ ascii command-line progress bar with percentage and elapsed time display
 === example output: ===
 
 
-`$ python progress_bar.py`
+`$ python3 progress_bar.py`
 
 <br />
 `static progress bar:`<br />
