@@ -22,7 +22,7 @@ example output:
 
 `static progress bar:`
 `[##########       25%                  ]  15s/60s`
-``
+
 `static progress bar:
 `[=================83%============      ]  25s/30s`
 ``
