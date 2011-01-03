@@ -15,7 +15,36 @@ ascii command-line progress bar with percentage and elapsed time display
 ----
 
 === example usage: === 
+{{{
+#!/usr/bin/env python3
 
+import progress_bar
+
+
+# print a static progress bar:
+#  [##########       25%                  ]  15s/60s
+
+pb = progress_bar.ProgressBar(60)
+pb.update_time(15)
+print(pb)
+
+
+# print a dynamic updating progress bar on one line:
+#
+#  [################100%##################]  10s/10s
+#  done
+
+secs = 10
+pb = progress_bar.ProgressBar(secs)
+print('\nplease wait %d seconds...\n' % secs)
+
+# spawn asych (threads/processes/etc) code here that runs for secs.
+# the call to .animate() blocks the main thread.
+
+pb.animate(secs)
+
+print('done')
+}}}
 === example output: ===
 
 
