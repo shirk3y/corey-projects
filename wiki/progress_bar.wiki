@@ -8,9 +8,9 @@ ascii command-line progress bar with percentage and elapsed time display
 
 ----
 
-== progress_bar.py Source Code (SVN) ==
+=== progress_bar.py Source Code (SVN) ===
 
-  * view: [ progress_bar.py]
+  * view: [http://code.google.com/p/corey-projects/source/browse/trunk/python3/progress_bar.py progress_bar.py]
   
 ----
 
