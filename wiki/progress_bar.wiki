@@ -7,19 +7,13 @@
 ascii command-line progress bar with percentage and elapsed time display
 
 === requirements ===
-
 Python 3.0+
-
-----
 
 === author ===
 Corey Goldberg<br />
 [http://goldb.org goldb.org]
 
-----
-
 === progress_bar.py source code (SVN) ===
-
   * view: [http://code.google.com/p/corey-projects/source/browse/trunk/python3/progress_bar.py progress_bar.py]
   
 ----
