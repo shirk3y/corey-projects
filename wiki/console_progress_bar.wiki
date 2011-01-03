@@ -1,4 +1,5 @@
 #summary console_progress_bar python module - ascii command-line progress bar
+#labels Featured
 
 ----
 
