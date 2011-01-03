@@ -9,7 +9,7 @@ ascii command-line progress bar with percentage and elapsed time display
 ----
 
 === author ===
-Corey Goldberg<br /> 
+Corey Goldberg<br />
 [http://goldb.org goldb.org]
 
 ----
