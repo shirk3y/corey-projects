@@ -1,4 +1,4 @@
-#summary progress_bar python module : ascii command-line progress bar
+#summary progress_bar python module - ascii command-line progress bar
 #labels Featured
 
 ----
