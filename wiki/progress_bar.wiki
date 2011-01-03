@@ -8,17 +8,17 @@ ascii command-line progress bar with percentage and elapsed time display
 
 ----
 
-=== progress_bar.py Source Code (SVN) ===
+=== progress_bar.py source code (SVN) ===
 
   * view: [http://code.google.com/p/corey-projects/source/browse/trunk/python3/progress_bar.py progress_bar.py]
   
 ----
 
-{{{
+
 example output:
 
 
-$ python progress_bar.py 
+`$ python progress_bar.py`
 
 static progress bar:
 [##########       25%                  ]  15s/60s
@@ -33,4 +33,3 @@ please wait 10 seconds...
 
 [################100%##################]  10s/10s
 done
-}}}
