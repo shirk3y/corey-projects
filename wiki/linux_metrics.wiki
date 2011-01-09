@@ -11,7 +11,7 @@ License :: OSI Approved :: MIT License
 
 == Source Code (SVN) ==
 
-  * view: [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_cpu_stat.py linux_stats_rrd.py]
+  * package view: [http://code.google.com/p/corey-projects/source/browse/trunk#trunk%2Fpython2%2Flinux_monitoring%2Flinux_metrics]
   
 ----
 
