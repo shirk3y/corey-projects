@@ -14,18 +14,19 @@ License :: OSI Approved :: MIT License
 
 ----
 
+== Requirements ==
+  * Python 2.6+
+  * Linux 2.6.x
+  * this package is pure python and has no external dependencies
+
+----
+
 == View Source Code (SVN) ==
 
   * [http://code.google.com/p/corey-projects/source/browse/trunk#trunk%2Fpython2%2Flinux_monitoring%2Flinux_metrics package]
 
   * [http://code.google.com/p/corey-projects/source/browse/trunk#trunk%2Fpython2%2Flinux_monitoring%2Flinux_metrics%2Flinux_metrics modules]
   
-----
-
-== Requires ==
-  * Python 2.6+
-  * Linux 2.6.x
-
 ----
 
 == Modules / Functions ==
