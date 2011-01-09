@@ -44,8 +44,8 @@ License :: OSI Approved :: MIT License
     * mem_stat
       * mem_stats()
     * net_stat
-      * rx_tx_bytes()
-      * rx_tx_bits()
+      * rx_tx_bytes(interface)
+      * rx_tx_bits(interface)
 
 ----
       
