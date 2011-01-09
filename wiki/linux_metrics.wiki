@@ -18,13 +18,13 @@ License :: OSI Approved :: MIT License
   
 ----
 
-=== Requires ===
+== Requires ==
   * Python 2.6+
   * Linux 2.6.x
 
 ----
 
-==== Modules/Functions ====
+=== Modules/Functions ===
   * cpu_stat
     * cpu_times()
     * cpu_percents(sample_duration=1)
@@ -39,7 +39,7 @@ License :: OSI Approved :: MIT License
 
 ----
       
-=== Simple Example ===
+== Simple Example ==
 {{{    
 #!/usr/bin/env python
 from linux_metrics import cpu_stat
@@ -48,7 +48,7 @@ print cpu_stat.procs_running()
 print cpu_stat.cpu_info()
 }}}    
 
-=== More Examples ===
+== More Examples ==
 
 example.py
 
