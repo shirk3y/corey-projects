@@ -3,21 +3,21 @@
 
 ----
 
-  = linux_metrics =
+= linux_metrics =
 
-  Copyright (c) 2010-2011 Corey Goldberg (http://goldb.org)<br />
+  Copyright © 2010-2011 Corey Goldberg (http://goldb.org)<br />
   License :: OSI Approved :: MIT License
 
 ----
 
-  == Download ==
+== Download ==
 
   source distribution: 
     * [http://corey-projects.googlecode.com/files/linux_metrics-0.1.0.tar.gz linux_metrics-0.1.0.tar.gz]
 
 ----
     
-  == Installation ==
+== Installation ==
 
   The linux_metrics package distribution ships with a [http://docs.python.org/distutils/ Disutils] setup script (`setup.py`) for installation:
     * `$ python setup.py install`  (as root)
