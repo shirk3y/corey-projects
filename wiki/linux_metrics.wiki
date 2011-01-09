@@ -92,7 +92,7 @@ print cpu_stat.cpu_info()
   The linux_metrics package distribution ships with a simple example script: [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_metrics/example.py example.py]
 
   For more complete examples, see the module source files:
-  * [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_metrics/linux_metrics/cpu_stat.py cpu_stat.py]
+    * [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_metrics/linux_metrics/cpu_stat.py cpu_stat.py]
 
 
 
