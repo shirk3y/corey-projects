@@ -10,8 +10,18 @@ License :: OSI Approved :: MIT License
 
 ----
 
-== Download / Install ==
-  *
+== Download ==
+
+  * source distribution: [http://foo/ linux_metrics-0.1.0.tar.gz]
+
+----
+    
+== Installation ==
+
+{{{
+$ wget http://foo/linux_metrics-0.1.0.tar.gz
+$ 
+}}}
 
 ----
 
@@ -19,6 +29,18 @@ License :: OSI Approved :: MIT License
 
   * Python 2.6+
   * Linux 2.6.x
+
+----
+      
+== Simple Example ==
+
+{{{    
+#!/usr/bin/env python
+from linux_metrics import cpu_stat
+
+print cpu_stat.procs_running()
+print cpu_stat.cpu_info()
+}}}    
 
 ----
 
@@ -51,15 +73,6 @@ License :: OSI Approved :: MIT License
       * rx_tx_bits(interface)
 
 ----
-      
-== Simple Example ==
-{{{    
-#!/usr/bin/env python
-from linux_metrics import cpu_stat
-
-print cpu_stat.procs_running()
-print cpu_stat.cpu_info()
-}}}    
 
 == More Examples ==
 
