@@ -18,8 +18,8 @@
     
 == Installation ==
 
-  The linux_metrics package ships with a [http://docs.python.org/distutils/ Disutils] setup script (`setup.py`) for installation:
-  * `$ python setup.py install` (as root)
+  The linux_metrics package distribution ships with a [http://docs.python.org/distutils/ Disutils] setup script (`setup.py`) for installation:
+  * `$ python setup.py install`  (as root)
   
   The full set of command line steps to download/unarchive/install:
   * `$ wget http://foo/linux_metrics-0.1.0.tar.gz`
@@ -45,6 +45,15 @@ from linux_metrics import cpu_stat
 print cpu_stat.procs_running()
 print cpu_stat.cpu_info()
 }}}    
+
+----
+
+== Unit Tests ==
+
+  The linux_metrics package distribution ships with a suite of unit tests: [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_metrics/tests.py tests.py]
+
+  You should run the tests and verify all cases pass in your environment:
+  * `$ python tests.py` 
 
 ----
 
