@@ -28,16 +28,6 @@ License :: OSI Approved :: MIT License
 
 ----
 
-== Package Namespace ==
-  * linux_metrics
-    * /cpu_stat
-    * /disk_stat
-    * /mem_stat
-    * /net_stat
-
-
-----
-
 == Modules/Functions ==
   * linux_metrics
     * cpu_stat
