@@ -24,7 +24,7 @@ License :: OSI Approved :: MIT License
 
 ----
 
-=== Modules/Functions ===
+== Modules/Functions ==
   * /cpu_stat
     * cpu_times()
     * cpu_percents(sample_duration=1)
