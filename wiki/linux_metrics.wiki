@@ -3,7 +3,7 @@
 
 ----
 
-= linux_metrics =
+= linux_metrics - Python Package - System Metrics/Stats for Linux =
 
   Copyright (c) 2010-2011 Corey Goldberg (http://goldb.org)<br />
   License :: OSI Approved :: MIT License
