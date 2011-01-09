@@ -30,12 +30,10 @@
 
 ----
 
-  == Requirements ==
+== Requirements ==
 
-    Python 
-      * 2.6+
-    Linux
-      * 2.6.x
+    * Python 2.6+
+    * Linux 2.6.x
 
 ----
       
