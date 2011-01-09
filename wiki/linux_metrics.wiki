@@ -31,12 +31,13 @@ License :: OSI Approved :: MIT License
   * net_stat
 
 ==== functions: ====
-  * cpu_times()
-  * cpu_percents(sample_duration=1)
-  * procs_running()
-  * procs_blocked()
-  * load_avg()
-  * cpu_info()
+  * cpu_stat
+    * cpu_times()
+    * cpu_percents(sample_duration=1)
+    * procs_running()
+    * procs_blocked()
+    * load_avg()
+    * cpu_info()
       
 === Simple Example ===
 {{{    
