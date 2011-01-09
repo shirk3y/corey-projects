@@ -9,7 +9,7 @@ License :: OSI Approved :: MIT License
 
 ----
 
-== Source Code (SVN) ==
+== View Source Code (SVN) ==
 
   * [http://code.google.com/p/corey-projects/source/browse/trunk#trunk%2Fpython2%2Flinux_monitoring%2Flinux_metrics package]
 
@@ -37,8 +37,10 @@ License :: OSI Approved :: MIT License
 ==== simple example: ====
 {{{    
 #!/usr/bin/env python
-import linux_cpu_stat as cpustat
-print cpustat.cpu_info()
+from linux_metrics import cpu_stat
+
+print cpu_stat.procs_running()
+print cpu_stat.cpu_info()
 }}}    
   
 ----
