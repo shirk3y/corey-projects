@@ -10,6 +10,10 @@ License :: OSI Approved :: MIT License
 
 ----
 
+== Download/Install ==
+
+----
+
 == View Source Code (SVN) ==
 
   * [http://code.google.com/p/corey-projects/source/browse/trunk#trunk%2Fpython2%2Flinux_monitoring%2Flinux_metrics package]
