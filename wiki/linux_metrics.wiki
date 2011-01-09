@@ -23,9 +23,9 @@
   
   The full set of command line steps to download/unarchive/install:
     * `$ wget http://foo/linux_metrics-0.1.0.tar.gz`
-  * `$ tar -zxvf linux_metrics-0.1.0.tar.gz`
-  * `$ cd linux_metrics-0.1.0`
-  * `$ sudo python setup.py install`
+    * `$ tar -zxvf linux_metrics-0.1.0.tar.gz`
+    * `$ cd linux_metrics-0.1.0`
+    * `$ sudo python setup.py install`
 
 ----
 
