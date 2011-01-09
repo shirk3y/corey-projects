@@ -18,6 +18,8 @@ License :: OSI Approved :: MIT License
     
 == Installation ==
 
+  linux_metrics ships with a [http://docs.python.org/distutils/ Disutils] setup script (`setup.py`).
+
   * `$ wget http://foo/linux_metrics-0.1.0.tar.gz`
   * `$ tar -zxvf linux_metrics-0.1.0.tar.gz`
   * `$ cd linux_metrics-0.1.0`
