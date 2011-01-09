@@ -11,7 +11,9 @@ License :: OSI Approved :: MIT License
 
 == Source Code (SVN) ==
 
-  * [http://code.google.com/p/corey-projects/source/browse/trunk#trunk%2Fpython2%2Flinux_monitoring%2Flinux_metrics package view]
+  * [http://code.google.com/p/corey-projects/source/browse/trunk#trunk%2Fpython2%2Flinux_monitoring%2Flinux_metrics package]
+
+  * [http://code.google.com/p/corey-projects/source/browse/trunk#trunk%2Fpython2%2Flinux_monitoring%2Flinux_metrics%2Flinux_metrics modules]
   
 ----
 
