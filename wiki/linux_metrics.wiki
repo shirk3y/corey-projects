@@ -19,10 +19,10 @@
 == Installation ==
 
   The linux_metrics package distribution ships with a [http://docs.python.org/distutils/ Disutils] setup script (`setup.py`) for installation:
-  * `$ python setup.py install`  (as root)
+    * `$ python setup.py install`  (as root)
   
   The full set of command line steps to download/unarchive/install:
-  * `$ wget http://foo/linux_metrics-0.1.0.tar.gz`
+    * `$ wget http://foo/linux_metrics-0.1.0.tar.gz`
   * `$ tar -zxvf linux_metrics-0.1.0.tar.gz`
   * `$ cd linux_metrics-0.1.0`
   * `$ sudo python setup.py install`
