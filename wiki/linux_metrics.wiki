@@ -18,19 +18,13 @@ License :: OSI Approved :: MIT License
   
 ----
 
-== Information ==
-  
-==== requires: ====
+=== Requires ===
   * Python 2.6+
   * Linux 2.6.x
-    
-==== modules: ====
-  * cpu_stat
-  * disk_stat
-  * mem_stat
-  * net_stat
 
-==== functions: ====
+----
+
+==== Modules/Functions ====
   * cpu_stat
     * cpu_times()
     * cpu_percents(sample_duration=1)
