@@ -19,7 +19,6 @@ License :: OSI Approved :: MIT License
 ----
 
 == Information ==
-
   
 ==== requires: ====
   * Python 2.6+
@@ -38,9 +37,8 @@ License :: OSI Approved :: MIT License
   * procs_blocked()
   * load_avg()
   * cpu_info()
-    
-    
-==== simple example: ====
+      
+==== Simple Example ====
 {{{    
 #!/usr/bin/env python
 from linux_metrics import cpu_stat
@@ -48,5 +46,9 @@ from linux_metrics import cpu_stat
 print cpu_stat.procs_running()
 print cpu_stat.cpu_info()
 }}}    
-  
+
+==== More Examples ====
+
+example.py
+
 ----
