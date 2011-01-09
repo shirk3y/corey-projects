@@ -17,7 +17,6 @@ License :: OSI Approved :: MIT License
 == Requirements ==
   * Python 2.6+
   * Linux 2.6.x
-  * this package is pure python and has no external dependencies
 
 ----
 
