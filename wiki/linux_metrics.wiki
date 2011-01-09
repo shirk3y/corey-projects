@@ -89,6 +89,8 @@ print cpu_stat.cpu_info()
 
 == More Examples ==
 
-example.py
+  The linux_metrics package distribution ships with a simple example script: [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_metrics/example.py example.py]
+
+
 
 ----
