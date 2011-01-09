@@ -39,7 +39,7 @@
 
 ----
       
-== Simple Example ==
+  == Simple Example ==
 
 {{{    
 #!/usr/bin/env python
@@ -51,7 +51,7 @@ print cpu_stat.cpu_info()
 
 ----
 
-== Unit Tests ==
+  == Unit Tests ==
 
   The linux_metrics package distribution ships with a suite of unit tests: [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_metrics/tests.py tests.py]
 
