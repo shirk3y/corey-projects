@@ -3,7 +3,7 @@
 
 ----
 
-[http://corey-projects.googlecode.com/svn/trunk/img/metrics_graph.png] [http://corey-projects.googlecode.com/svn/trunk/img/python-powered-w-100x40.png]
+  [http://corey-projects.googlecode.com/svn/trunk/img/metrics_graph.png] [http://corey-projects.googlecode.com/svn/trunk/img/python-powered-w-100x40.png]
 
 = linux_metrics =
 
