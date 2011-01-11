@@ -68,6 +68,13 @@ print cpu_stat.cpu_info()
   You can run the tests and verify all cases pass in your environment:
     * `$ python tests.py` 
 
+  Note:  you may need to adjust the configuration of the unit tests to match your environment.  They are set by default to use:
+{{{
+# configuration  
+DISK_DEVICE = 'sda'
+NETWORK_INTERFACE = 'eth0'
+}}}
+
 ----
 
 == View Source Code (SVN) ==
