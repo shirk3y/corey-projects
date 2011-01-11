@@ -17,7 +17,7 @@
 
   linux_metrics is a Python package containing modules for getting OS metrics on systems running the Linux (2.6) kernel.  It is a pure python library with no external dependencies.  
 
-  This project is under development, and nowhere near comprehensive.  Only basic stats for major subsystems are provided (Processor/CPU, Disk, Memory, Network).  Hopefully, more is coming.  
+  This project is under development, and nowhere near comprehensive.  Only basic stats for major subsystems are provided (Processor/CPU, Disk, Memory, Network).  Hopefully, more are coming.  
 
   feedback welcome.  
 
