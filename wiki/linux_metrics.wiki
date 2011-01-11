@@ -9,7 +9,7 @@
   Python Package - System Metrics/Stats for Linux
 
   Copyright © 2010-2011 Corey Goldberg (http://goldb.org)<br />
-  License : MIT ([http://foo view])
+  License : [http://corey-projects.googlecode.com/svn/trunk/python2/linux_monitoring/linux_metrics/LICENSE MIT]
 
 ----
 
