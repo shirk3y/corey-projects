@@ -99,18 +99,6 @@ print cpu_stat.cpu_info()
       * rx_tx_bits(interface)
 
 ----
-== Classifiers ==
-
-  * `Intended Audience :: Developers`
-  * `Intended Audience :: System Administrators`
-  * `License :: OSI Approved :: MIT License`
-  * `Operating System :: POSIX :: Linux`
-  * `Programming Language :: Python :: 2.6`
-  * `Programming Language :: Python :: 2.7`
-  * `Topic :: Software Development :: Libraries :: Python Modules`
-  * `Topic :: System :: Monitoring`
-
-----
 
 == More Examples ==
 
@@ -121,5 +109,18 @@ print cpu_stat.cpu_info()
     * [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_metrics/linux_metrics/disk_stat.py disk_stat.py]
     * [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_metrics/linux_metrics/mem_stat.py mem_stat.py]
     * [http://code.google.com/p/corey-projects/source/browse/trunk/python2/linux_monitoring/linux_metrics/linux_metrics/net_stat.py net_stat.py]
+
+----
+
+== Classifiers ==
+
+  * `Intended Audience :: Developers`
+  * `Intended Audience :: System Administrators`
+  * `License :: OSI Approved :: MIT License`
+  * `Operating System :: POSIX :: Linux`
+  * `Programming Language :: Python :: 2.6`
+  * `Programming Language :: Python :: 2.7`
+  * `Topic :: Software Development :: Libraries :: Python Modules`
+  * `Topic :: System :: Monitoring`
 
 ----
