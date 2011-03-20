@@ -87,7 +87,7 @@ NETWORK_INTERFACE = 'eth0'
 
 == Modules / Functions ==
 
-  * linux-metrics
+  * linux_metrics
     * cpu_stat
       * cpu_times()
       * cpu_percents(sample_duration=1)
