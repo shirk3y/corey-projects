@@ -1,4 +1,5 @@
 #summary Python Package - System Metrics/Stats for Linux
+#labels Featured
 
 ----
 
