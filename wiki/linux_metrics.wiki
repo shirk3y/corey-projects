@@ -1,2 +1,1 @@
-#labels Featured
 please visit: [http://linux-metrics.googlecode.com linux-metrics.googlecode.com]
