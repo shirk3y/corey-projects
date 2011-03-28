@@ -1,8 +1,6 @@
 #summary HTTP Profiler (API Performance Probe)
 #labels Featured
  
-----
-
 == http_rrd_profiler ==
 
 *Corey Goldberg - 2009, 2011*
