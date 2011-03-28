@@ -10,3 +10,19 @@
 ----
 
 == Source Code (SVN) ==
+
+  * [http://code.google.com/p/corey-projects/source/browse/trunk/python2/http_rrd_profiler/http_rrd_profiler.py http_rrd_profiler.py]
+  * [http://code.google.com/p/corey-projects/source/browse/trunk/python2/http_rrd_profiler/rrd.py rrd.py]
+
+== Information ==
+
+  * sends synthetic transactions (HTTP requests) to an API
+  * stores response times in RRD database:
+    * request sent
+    * response received
+    * content transferred
+  * generates PNG time-series graphs from RRDs
+
+== Requirements ==
+  * Python 2 (2.5+)
+  * [http://oss.oetiker.ch/rrdtool/ RRDTool]
