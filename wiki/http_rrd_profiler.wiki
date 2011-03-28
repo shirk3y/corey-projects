@@ -24,5 +24,5 @@
   * [http://oss.oetiker.ch/rrdtool/ RRDTool]
 
 == Screenshots ==
-http_rrd_profiler-sample1.png<br />
-http_rrd_profiler-sample2.png
+http://corey-projects.googlecode.com/svn/trunk/python2/img/http_rrd_profiler-sample1.png<br />
+http://corey-projects.googlecode.com/svn/trunk/python2/img/http_rrd_profiler-sample2.png
