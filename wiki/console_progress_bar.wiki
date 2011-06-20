@@ -14,7 +14,7 @@ Corey Goldberg<br />
 [http://goldb.org goldb.org]
 
 === progress_bar.py source code (SVN): ===
-  * view: [http://code.google.com/p/corey-projects/source/browse/trunk/python3/progress_bar.py progress_bar.py]
+  * view: [http://code.google.com/p/corey-projects/source/browse/trunk/python3/console_progress_bar/console_progress_bar.py console_progress_bar.py]
   
 ----
 
